@@ -5,7 +5,7 @@ import java.math.*;
 /**
  * github: albaad
  **/
-class Solution {
+class GlassStacking {
 
 	static Integer[] nbrglasses = { 1, 3, 6, 10, 15, 21, 28 };
 
